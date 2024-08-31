@@ -1,3 +1,6 @@
 *.orig
 *.rej
 *~
+.ipynb_checkpoints
+.python-version
+dataset_cls
